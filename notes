@@ -1,0 +1,9 @@
+https://www.geeksforgeeks.org/convert-xml-data-into-json-using-node-js/
+
+0. Open a terminal and head to the folder of your choice.
+1. run "npm install fs xml2js" to install packages
+2. In the package.json file, add "package":"module", in order to enable imports
+3. testingCode is the copy pasted code example there
+4. Run via node testingCode.js or whatever you want to name the file.
+
+This will turn the xmldata into a JSON object for us to parse through.
